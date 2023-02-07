@@ -22,6 +22,12 @@ class MainActivity : AppCompatActivity() {
         })
         ss.priority = Thread.MIN_PRIORITY
 
+<<<<<<< HEAD
+=======
+        var a12a = 15
+
+
+>>>>>>> bf95aa4 (first commit)
 
 
         var ss1 = Thread(Runnable {
