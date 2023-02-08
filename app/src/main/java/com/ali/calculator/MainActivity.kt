@@ -51,7 +51,11 @@ class MainActivity : AppCompatActivity() {
 
         val t1 = Thread(Runnable {
 
-        })
+
+            var ali = "ali"
+        }
+
+
 
     }
 }
