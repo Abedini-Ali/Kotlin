@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         ss.start()
         ss1.start()
 
-
+//777
 
         val t1 = Thread(Runnable {
 
