@@ -52,7 +52,8 @@ class MainActivity : AppCompatActivity() {
 
 
             var ali = "ali"
-        }
+        })
+
 
 
 
