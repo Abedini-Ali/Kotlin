@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         var a12a = 15
 
 
-
+//  این است جعفر ملی 
 
 
         var ss1 = Thread(Runnable {
